@@ -1,17 +1,16 @@
 <h2> Hi, I'm Abdullah Labib! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4N1IrSfdjsS9TlUuzD/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.eelu.edu.eg/en/">The Egyptian E-Learning University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Software Enginner at <a href="https://www.eelu.edu.eg/en/">The Egyptian E-Learning University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 The Egyptian E-Learning University
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: abdullah646a](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/abdullah646a)
+[![Linkedin: Abdullah Labib](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/abdullah-labib-1b0800203/)
+[![GitHub abdullahLabib](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/abdullahLabib)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const abdullah = {
   pronouns: "he" | "him",
   code: [C++, Typescript, HTML, CSS, PHP, Java],
   tools: [Storybook, sourcetree , Docker],
