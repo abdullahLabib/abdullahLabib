@@ -1,5 +1,5 @@
 <h2> Hi, I'm Abdullah Labib! <img src="https://media.giphy.com/media/mqQN901gsX0HgF6LjF/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" width="260">
 <p><b>Software Enginner at </b><em><a href="https://www.eelu.edu.eg/en/">The Egyptian E-Learning University</a><img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="30"></em></p>
 
 [![Twitter: abdullah646a](https://img.shields.io/twitter/follow/abdullah646a?style=social)](https://twitter.com/abdullah646a)
