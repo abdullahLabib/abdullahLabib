@@ -11,13 +11,13 @@
 
 ```javascript
 const abdullah = {
-  pronouns: "he" | "him";
-  code: [C++, Typescript, Html, Css, Php, Java];
-  tools: [Storybook, Sourcetree , Docker];
-  architecture: ["microservices", "event-driven", "design system pattern"];
+  pronouns: "he" | "him",
+  code: [C++, Typescript, HTML, CSS, PHP, Java],
+  tools: [Storybook, Sourcetree , Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "####";
-                        speaker: "####";
+                        EELU ICPC: "####",
+                        Speaker  : "####",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on PHP and typescript"
 }
