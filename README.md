@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" width="260">
 <p><b>Software Enginner at </b><em><a href="https://www.eelu.edu.eg/en/">The Egyptian E-Learning University</a><img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="30"></em></p>
 
-[![Twitter: abdullah646a](https://img.shields.io/twitter/follow/abdullah646a?style=social)](https://twitter.com/abdullah646a)
+[![Twitter: abdullahLabib02](https://img.shields.io/twitter/follow/abdullahLabib02?style=social)](https://twitter.com/abdullahLabib02)
 [![Linkedin: Abdullah Labib](https://img.shields.io/badge/-abdullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-labib-1b0800203/)](https://www.linkedin.com/in/abdullah-labib-1b0800203/)
 [![GitHub abdullahLabib](https://img.shields.io/github/followers/abdullahLabib?label=follow&style=social)](https://github.com/abdullahLabib)
 
